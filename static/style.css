@@ -1,0 +1,22 @@
+body {
+}
+
+.main {
+    width: 400px;
+    margin: auto;
+}
+
+form input[type=text] {
+    width: 80%;
+    margin-top: 5px;
+	margin-bottom: 5px;
+    line-height: 20px;
+}
+form textarea[type=text]{
+	width: 73%;
+	height: 90%;
+}
+
+h1 {
+	text-align: center;
+}
